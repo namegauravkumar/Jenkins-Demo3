@@ -6,4 +6,3 @@ print(" welcome to  cloud knowlede you tube channel")
 
 print(" hello  world from python libarary ")
 
-print(" hello ")
